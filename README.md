@@ -1,15 +1,3 @@
-# Lab: Name
-By Luis Daniel Casais Mezquida  
-Subject 2X/2Y  
-Máster en Ingeniería Informática  
-Universidad Carlos III de Madrid
+# IA3
 
-
-## Enunciado de la práctica
-
-
-
-
-## Instalación y ejecución
-
-
+Se adjuntan todos los archivos necesarios para recrear el proyecto. Los scripts de python que comienzan por "plot" han sido utilizados para generar las gráficas que se encuentran en el informe.
